@@ -26,7 +26,7 @@ public class TaskA {
 		}
 		
 		word = rev_word_new;
-	 word;
+		return word;
 	}
 	
 	static boolean isPalindrome(String word) {
